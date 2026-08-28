@@ -6,11 +6,30 @@
 
 <card id="home" title="Old Fashion WEB">
 <p>
+
 OLD FASHION WEB<br/>
 ----------------<br/>
 STARÉ MOBILY.<br/>
 STARÝ INTERNET.<br/>
 NOVÝ ŽIVOT.<br/>
+----------------<br/>
+<br/>
+
+<a href="#ringtones">ZVONENIA</a><br/>
+<a href="pictures.wml">OBRAZKY</a><br/>
+
+<br/>
+----------------<br/>
+WAP 1.1
+
+</p>
+</card>
+
+
+<card id="ringtones" title="ZVONENIA">
+<p>
+
+ZVONENIA<br/>
 ----------------<br/>
 <br/>
 
@@ -36,8 +55,8 @@ MOTOROLA V220 UPGRADE<br/>
 <a href="Dancing_queen_Motorola_V220_Upgrade.mid">DANCING QUEEN</a><br/>
 
 <br/>
-----------------<br/>
-WAP 1.1
+<a href="#home">SPAT</a>
+
 </p>
 </card>
 
